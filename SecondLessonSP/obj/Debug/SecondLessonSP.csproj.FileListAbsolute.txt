@@ -1,0 +1,9 @@
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\bin\Debug\SecondLessonSP.exe.config
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\bin\Debug\SecondLessonSP.exe
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\bin\Debug\SecondLessonSP.pdb
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.csprojResolveAssemblyReference.cache
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.Properties.Resources.resources
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.csproj.GenerateResource.Cache
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.exe
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.pdb
+c:\users\баймуханбетоваа\documents\visual studio 2017\Projects\SecondLessonSP\SecondLessonSP\obj\Debug\SecondLessonSP.Form1.resources
